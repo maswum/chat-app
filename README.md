@@ -17,6 +17,10 @@ npm add uuid
 npm add firebase
 npm add react-router-dom
 ```
+Now run the websocket-server:
+```
+node websocket-server.js
+```
 Now run the server:
 ```
 npm start
