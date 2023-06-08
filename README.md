@@ -27,14 +27,16 @@ npm start
 2. In one browser login with one Test users credentials.
 3. In another one login with another Test users credentials and enjoy chatting.
 
-<b>Test Users<b>
-  | Display Name | Email | Password |
-  | Chamber |  testAcc@gmail.com | 123asd |
-  | Jett | test1@gmail.com | 123asd |
-  | Raze | test2@gmail.com | 123asd |
-  | Omen | test3@gmail.com | 123asd |
-  | Killjoy | test4@gmail.com | 123asd |
-  | Astra | test5@gmail.com | 123asd |
+**Test Users**
+  
+  | Display Name |     Email    | Password |
+  | ------------ | ------------ | -------- |
+  | Chamber | testAcc@gmail.com |  123asd  |
+  | Jett    | test1@gmail.com   |  123asd  |
+  | Raze    | test2@gmail.com   |  123asd  |
+  | Omen    | test3@gmail.com   |  123asd  |
+  | Killjoy | test4@gmail.com   |  123asd  |
+  | Astra   | test5@gmail.com   |  123asd  |
   
   
   
