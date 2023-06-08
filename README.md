@@ -23,7 +23,7 @@ npm start
 ```
 #Log in to Chat:
 
-1. Open 2 web browser and typehttp://localhost:3000 in the address bar to load the application in each of them.
+1. Open 2 web browser and type http://localhost:3000 in the address bar to load the application in each of them.
 2. In one browser login with one Test users credentials.
 3. In another one login with another Test users credentials and enjoy chatting.
 
