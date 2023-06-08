@@ -38,5 +38,8 @@ npm start
   | Killjoy | test4@gmail.com   |  123asd  |
   | Astra   | test5@gmail.com   |  123asd  |
   
+  To find a contact saerch it in the search bar and the contact will appear:
   
+![image](https://github.com/maswum/chat-app/assets/89363350/e7f86d02-2271-4037-a5d9-f04d28625a08)
+
   
